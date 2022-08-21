@@ -10,11 +10,12 @@
   "author": "Muhammmed Althaf",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.7.0",
-    "parcel": "^2.7.0",
+    "parcel": "^2.0.0-beta.1",
     "sass": "^1.26.10"
   },
   "dependencies": {
-    "fractional": "^1.0.0"
+    "core-js": "^3.6.5",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.7"
   }
 }
